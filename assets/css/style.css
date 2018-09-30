@@ -1,0 +1,33 @@
+body{
+    background: url("gravel.png") no-repeat center center fixed;
+    background-size: cover;
+}
+.navbar{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-size: 36px;
+}
+/*
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #5E5E5E;
+}
+*/
+
+h1{
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 30px; 
+}
+hr{
+    border-top: 2px solid #cccccc;
+}
+.footer-copyright{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #666666;
+    border-top: 10px solid #4aaaa5;
+    padding: 40px;
+    margin: 0;
+}
