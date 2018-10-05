@@ -27,6 +27,13 @@ hr{
 .figure-caption{
     background-color: #4aaaa5;
 }
+.figure-caption{
+    bottom: 200px;
+    top: 0px;
+}
+.btnBgColor {
+    background-color: #4aaaa5;
+}
 .footer-copyright{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background-color: #666666;
