@@ -1,7 +1,14 @@
+html{
+    height: 100%;
+    margin: 0px;
+}
 body{
     background: url("gravel.png") no-repeat center center fixed;
     background-size: cover;
+    height: 100%;
+    margin: 0px;
 }
+
 .navbar{
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
@@ -33,6 +40,13 @@ hr{
 }
 .btnBgColor {
     background-color: #4aaaa5;
+}
+.wrapper{
+    min-height: 100%;
+    margin-bottom: -30px;
+}
+.footer , .push{
+    height: 30px;
 }
 .footer-copyright{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
