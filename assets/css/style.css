@@ -3,7 +3,7 @@ html{
     margin: 0px;
 }
 body{
-    background: url("../images/gravel.png") no-repeat center center fixed;
+    background: url("../images/leaves-pattern.png") no-repeat center center fixed;
     background-size: cover;
     height: 100%;
     margin: 0px;
@@ -16,13 +16,6 @@ body{
     background-color: #4aaaa5;
     font-size: 36px;
 }
-/*
-.navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus {
-    color: #5E5E5E;
-}
-*/
-
 h1{
     color: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
